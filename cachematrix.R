@@ -4,7 +4,7 @@
 ## Bellow there is an example of their use
 ## > x<-matrix(c(1,0,5,2,1,6,3,4,0),3,3)
 ## > xx<-makeCacheMatrix(x)
-## > cachesolve(xx)
+## > cacheSolve(xx)
 
 ## makeCacheMatrix creates a list of four functions:
 ##      - set: create the object
